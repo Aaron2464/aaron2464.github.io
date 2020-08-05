@@ -4352,7 +4352,7 @@ del {
   margin-top: 10px;
 }
 .section-top-border {
-  padding: 25px 0;
+  padding: 50px 0;
   border-top: 1px dotted #eee;
 }
 .mb-30 {
@@ -5221,18 +5221,18 @@ z .slider-area .hero-cap h2 {
 }
 .applic-apps .single-cases-info {
   position: relative;
-  left: 20%;
-  margin-top: 0px;
+  left: 58%;
+  margin-top: 72px;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
   .applic-apps .single-cases-info {
-    margin-top: 0px;
-    left: 10%;
+    margin-top: 72px;
+    left: 33%;
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .applic-apps .single-cases-info {
-    left: 15%;
+    left: 38%;
     margin-top: 0px;
   }
 }
