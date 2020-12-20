@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: aaron2464.github.io
+Token: cde9dcdde00286f2b3620e8694ecd28ddb070b4821d964c31b773633364d5cb2
